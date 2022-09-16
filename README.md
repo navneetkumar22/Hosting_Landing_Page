@@ -6,7 +6,7 @@ This Hosting Landing Page is created using HTML and CSS.
 
 ## **Features :**
 - Created with HTML and CSS only.
-- Designed with using positions selector and z-index properties exclusively.
+- Designed with using positions selectors and flex-box properties exclusively.
 - Made Responsive using media queries to work on mobile devices.
 
 </br>
